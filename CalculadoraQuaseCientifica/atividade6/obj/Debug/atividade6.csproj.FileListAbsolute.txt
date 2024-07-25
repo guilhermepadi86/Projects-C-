@@ -1,0 +1,10 @@
+C:\Users\guipa\OneDrive\Documentos\Porogramação\atividade6\atividade6\bin\Debug\atividade6.exe.config
+C:\Users\guipa\OneDrive\Documentos\Porogramação\atividade6\atividade6\bin\Debug\atividade6.exe
+C:\Users\guipa\OneDrive\Documentos\Porogramação\atividade6\atividade6\bin\Debug\atividade6.pdb
+C:\Users\guipa\OneDrive\Documentos\Porogramação\atividade6\atividade6\obj\Debug\atividade6.csproj.AssemblyReference.cache
+C:\Users\guipa\OneDrive\Documentos\Porogramação\atividade6\atividade6\obj\Debug\atividade6.Form1.resources
+C:\Users\guipa\OneDrive\Documentos\Porogramação\atividade6\atividade6\obj\Debug\atividade6.Properties.Resources.resources
+C:\Users\guipa\OneDrive\Documentos\Porogramação\atividade6\atividade6\obj\Debug\atividade6.csproj.GenerateResource.cache
+C:\Users\guipa\OneDrive\Documentos\Porogramação\atividade6\atividade6\obj\Debug\atividade6.csproj.CoreCompileInputs.cache
+C:\Users\guipa\OneDrive\Documentos\Porogramação\atividade6\atividade6\obj\Debug\atividade6.exe
+C:\Users\guipa\OneDrive\Documentos\Porogramação\atividade6\atividade6\obj\Debug\atividade6.pdb
